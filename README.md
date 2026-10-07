@@ -153,3 +153,4 @@ Al desarrollar un proyecto, se puede seguir este orden:
 6. Repite las pruebas después de cada cambio.
 
 > La calidad no es un único paso: es una práctica continua de validación, medición y mejora.
+
